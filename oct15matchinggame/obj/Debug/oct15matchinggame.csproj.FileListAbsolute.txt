@@ -1,0 +1,10 @@
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.csprojAssemblyReference.cache
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.Form1.resources
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.Properties.Resources.resources
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.csproj.GenerateResource.cache
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.csproj.CoreCompileInputs.cache
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\bin\Debug\oct15matchinggame.exe.config
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\bin\Debug\oct15matchinggame.exe
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\bin\Debug\oct15matchinggame.pdb
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.exe
+C:\Users\saian\source\repos\oct15matchinggame\oct15matchinggame\obj\Debug\oct15matchinggame.pdb
